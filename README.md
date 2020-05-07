@@ -17,3 +17,5 @@
   <li>Staff and User login</li>
   <li>Admin area customized according to the company's needs</li>
 </ul>
+
+<p>... and many more!</p>
